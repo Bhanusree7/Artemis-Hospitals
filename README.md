@@ -1,2 +1,2 @@
 # Artemis-Hospitals
-Artemis Hospitals Website
+A website which helps the Physically Disabled People 
